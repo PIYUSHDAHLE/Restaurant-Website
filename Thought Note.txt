@@ -1,0 +1,17 @@
+Hi, i am Piyush Dahle from Balaghat M.P.
+
+This is my second assignment of my full stack development course. Before watching my project please make sure that your browser zoom in/zoom out set in 100% this is because the website is not responsive and it is present perfectly when browser zoom in/zoom out set in 100%.
+
+In this project i am created the restaurant website using only HTML and CSS. I put all the things in the website which are nessessory to put in the website project according to the module 2 assignment. Extra i'am using the header and footer part in the website which make my project more attractive. Header part containing the navigation bar and the image of banner which was designed by me using canva. Generally i'm using banner in 'About' page and 'Menu' page.
+
+Here, 4 pages named as Home, Menu, About, Contact and all the pages css put into the css folder. Inside the css folder the bg-images folder are available which contain the background images. All other images are available in the images folder.
+
+The 1st page is 'Home' page where I'm using the background image, front image which is made by me using Canva.  Above the image there are 3 buttons name as 'Our Menu', 'About Us' and 'Contact Us'.
+
+The 2nd page is  'Our Menu' page where I'm using the nav bar, image of banner in the header part. In the main part I'm providing the title like breakfast, lunch and dinner. I'm providing the images of the foods and there name is written in the button of the images . When we hover on the button some transitions effect are take place. To set the images in the row using some grid and flex properties of CSS. I m also use some shadow effects in the images by using box-shadow properties in CSS. Behind the images I have used the background linear gradient effect which is used in CSS.
+
+The 3rd page is 'About Us' page in which I have told about my restaurant, the name of restaurant is dahle restaurant. Basically this website has a navigation bar and image of banner in the header part. Banner image is designed by me in Canva and then comes our main content page which has an image on the right side use float property to set them and left side some information of my dahle restaurant in paragraphs. In the background I have used gradient property in CSS. In the footer part I have given the  social media logo like Facebook, Instagram, YouTube, Github and linkedin logo when we hover and click them then we go to the other pages.
+
+The 4th page is 'Contact Us' page in this page I have created a navigation bar and given a background image and using the form tag I have provided form to take the input of the user name, email ID, phone number and a message box to drop the message and a submit button and in the last I have given a footer which is also available in the previous pages like menu page and about page.
+
+

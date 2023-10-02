@@ -1,0 +1,56 @@
+body {
+    display: grid;
+    background-image: url("bg-images/main-background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 10px;
+    width: 50%;
+}
+
+.container {
+
+    position: relative;
+    text-align: center;
+}
+
+button {
+    display: inline-block;
+    background-color: #CFB390;
+    padding: 15px 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px 10px;
+    font-size: 20px;
+    color: #4B443E;
+    border: 2px solid #F6F0DB;
+    border-bottom: solid 4px #4B443E;
+    border-radius: 35px 35px 0 0;
+}
+
+/* using Descendant combinator to select container image child  */
+.container img {
+    height: auto;
+    width: 51%;
+}
+
+/* using Descendant combinator to select container all button child */
+.container button {
+
+    position: relative;
+    bottom: 70px;
+}
+
+/* using hover effects on button */
+button:hover {
+    background-color: #554737;
+    color: #cebaaa;
+    border: 2px solid #F1D881;
+    border-bottom: solid 4px #F1D881;
+}
